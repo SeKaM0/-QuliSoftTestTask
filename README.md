@@ -1,6 +1,5 @@
 # Project Title
-
-- [DEMO LINK](https://sekam0.github.io/abz.TestTask/)
+Gallery on React Native 
 
 ## Description
 Create React Native application
